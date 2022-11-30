@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashishpote
 - 👀 I’m interested in building new things
-- 🌱 I’m currently learning TOGAF
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Azure Architect
+- 💞️ I’m looking to collaborate on Wealth Management App
 - 📫 You can reach me at pote.ashish@gmail.com
 
 <!---
