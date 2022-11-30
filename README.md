@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashishpote
 - 👀 I’m interested in building new things
-- 🌱 I’m currently learning Azure Architect
+- 🌱 I’m currently learning Azure Solution Architect certification
 - 💞️ I’m looking to collaborate on Wealth Management App
 - 📫 You can reach me at pote.ashish@gmail.com
 
