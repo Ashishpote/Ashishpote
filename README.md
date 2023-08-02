@@ -23,13 +23,13 @@ Employing a confluence of divergent thinking, analytical finesse, and creativity
 
 📜 Credentials of Distinction
 
-🎖️ Microsoft Certified: Azure Solutions Architect Expert (July 2023)
-🎖️ Microsoft Certified - Azure Administrator Associate (February 2023)
-🎖️ The Open Group Certified: TOGAF® 9 Certified (November 2022)
-🎖️ The Open Group Certified: TOGAF® 9 Foundation (October 2022)
-🎖️ Microsoft Certified - Azure Developer Associate (July 2022, renewed 2023)
-🎖️ Microsoft Certified - Azure AI Fundamentals (February 2022)
-🎖️ Microsoft Certified - Azure Fundamentals (September 2020)
+🎖️ Microsoft Certified: Azure Solutions Architect Expert (July 2023)<br/>
+🎖️ Microsoft Certified - Azure Administrator Associate (February 2023)<br/>
+🎖️ The Open Group Certified: TOGAF® 9 Certified (November 2022)<br/>
+🎖️ The Open Group Certified: TOGAF® 9 Foundation (October 2022)<br/>
+🎖️ Microsoft Certified - Azure Developer Associate (July 2022, renewed 2023)<br/>
+🎖️ Microsoft Certified - Azure AI Fundamentals (February 2022)<br/>
+🎖️ Microsoft Certified - Azure Fundamentals (September 2020)<br/>
 🔮 Guiding Maxim
 "Embrace relinquishing the good for the pursuit of greatness." This ethos encapsulates my unwavering dedication to continuous improvement.
 
