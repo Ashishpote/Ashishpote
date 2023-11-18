@@ -30,8 +30,7 @@ Employing a confluence of divergent thinking, analytical finesse, and creativity
 🎖️ Microsoft Certified - Azure Developer Associate (July 2022, renewed 2023)<br/>
 🎖️ Microsoft Certified - Azure AI Fundamentals (February 2022)<br/>
 🎖️ Microsoft Certified - Azure Fundamentals (September 2020)<br/>
-🔮 Guiding Maxim
-"Embrace relinquishing the good for the pursuit of greatness." This ethos encapsulates my unwavering dedication to continuous improvement.
+
 
 🌎 Global Footprints
 My professional journey has traversed nations including India, Singapore, Poland, Czech Republic, Austria, and the vibrant landscape of Hong Kong.
